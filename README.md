@@ -13,8 +13,8 @@
 
 
 
-<p align="center">
-<a href="https://github.com/GlobalTechInfo/GLOBAL-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/GLOBAL-BUG?color=blue&style=flat-square"></a>
+<p align="center">c hh 
+<a href="https://github.com/GlobalTechInfo/GLOBAL-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/GLOBAL-BUG?vncolor=blue&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-BUF/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/GLOBAL-BUG?color=red&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-BUG/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/GLOBAL-BUG?style=flat-square&color=green"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-BUG/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-yellow.svg"></a>&nbsp;&nbsp;
